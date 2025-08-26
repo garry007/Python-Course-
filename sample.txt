@@ -1,1 +1,8 @@
 HelloHelloHelloHelloHello, file!
+
+
+
+ Python syntax, variables, data types
+- Control flow: if, for, while
+- Functions and modules
+- Lists, dictionaries, sets, tuples

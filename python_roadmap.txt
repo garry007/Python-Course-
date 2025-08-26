@@ -7,7 +7,9 @@
    - Comments
 
 2. Control Flow
-
+   - if, elif, else
+   - for and while loops
+   - break, continue, pass
 
 3. Functions and Modules
    - Defining and calling functions
