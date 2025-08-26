@@ -1,0 +1,67 @@
+# Python Learning Roadmap
+
+1. Python Basics
+   - Syntax, variables, data types
+   - Input/output
+   - Operators
+   - Comments
+
+2. Control Flow
+
+
+3. Functions and Modules
+   - Defining and calling functions
+   - Arguments and return values
+   - Importing modules
+   - Writing your own modules
+
+4. Data Structures
+   - Lists, tuples, sets, dictionaries
+   - List comprehensions
+   - String manipulation
+
+5. File Handling
+   - Reading and writing files
+   - Working with CSV, JSON
+
+6. Error Handling
+   - try, except, finally
+   - Raising exceptions
+
+7. Object-Oriented Programming (OOP)
+   - Classes and objects
+   - Attributes and methods
+   - Inheritance and polymorphism
+
+8. Standard Libraries & Packages
+   - math, datetime, os, sys, random, etc.
+   - Installing packages with pip
+
+9. Advanced Topics
+   - Generators and iterators
+   - Decorators
+   - Lambda functions
+   - Context managers (with statement)
+
+10. Working with External Libraries
+    - requests, pandas, numpy, matplotlib, etc.
+
+11. Testing
+    - Writing and running tests (unittest, pytest)
+
+12. Project Development
+    - Structuring projects
+    - Version control with Git
+    - Virtual environments
+
+13. Web Development (Optional)
+    - Flask, Django basics
+
+14. Data Science & Machine Learning (Optional)
+    - numpy, pandas, matplotlib, scikit-learn
+
+15. Practice
+    - Solve problems on LeetCode, HackerRank, Codewars, etc.
+    - Build small projects
+
+# Happy Learning!
